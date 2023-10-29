@@ -1,0 +1,11 @@
+C:\Users\devra\Desktop\C# Projelerim\Istanbul_Secim\Istanbul_Secim\bin\Debug\Istanbul_Secim.exe.config
+C:\Users\devra\Desktop\C# Projelerim\Istanbul_Secim\Istanbul_Secim\bin\Debug\Istanbul_Secim.exe
+C:\Users\devra\Desktop\C# Projelerim\Istanbul_Secim\Istanbul_Secim\bin\Debug\Istanbul_Secim.pdb
+C:\Users\devra\Desktop\C# Projelerim\Istanbul_Secim\Istanbul_Secim\obj\Debug\Istanbul_Secim.csproj.AssemblyReference.cache
+C:\Users\devra\Desktop\C# Projelerim\Istanbul_Secim\Istanbul_Secim\obj\Debug\Istanbul_Secim.FrmGiris.resources
+C:\Users\devra\Desktop\C# Projelerim\Istanbul_Secim\Istanbul_Secim\obj\Debug\Istanbul_Secim.FrmGrafikler.resources
+C:\Users\devra\Desktop\C# Projelerim\Istanbul_Secim\Istanbul_Secim\obj\Debug\Istanbul_Secim.Properties.Resources.resources
+C:\Users\devra\Desktop\C# Projelerim\Istanbul_Secim\Istanbul_Secim\obj\Debug\Istanbul_Secim.csproj.GenerateResource.cache
+C:\Users\devra\Desktop\C# Projelerim\Istanbul_Secim\Istanbul_Secim\obj\Debug\Istanbul_Secim.csproj.CoreCompileInputs.cache
+C:\Users\devra\Desktop\C# Projelerim\Istanbul_Secim\Istanbul_Secim\obj\Debug\Istanbul_Secim.exe
+C:\Users\devra\Desktop\C# Projelerim\Istanbul_Secim\Istanbul_Secim\obj\Debug\Istanbul_Secim.pdb
